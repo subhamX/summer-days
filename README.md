@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Summer Days
 
-## Getting Started
+## Description
+Summer Days is a project aimed at creating a fun and interactive platform for users to share their summer experiences. Whether it's a beach trip, a hike in the mountains, or a backyard barbecue, Summer Days provides a space to document and share these moments with friends and family. 
+Laugh at your sunburns, brag about your perfect tan, and show off your BBQ skills (or lack thereof)!
 
-First, run the development server:
+![Summer beach](./sebastien-gabriel--IMlv9Jlb24-unsplash.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation
+To get started with Summer Days, follow these steps:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Humorous Summer Tips
+1. **Stay Hydrated**: Drink plenty of water. If you find yourself turning into a raisin, it's time to hydrate!
+2. **Sunscreen is Your Friend**: Unless you want to look like a lobster, apply generously.
+3. **Flip-Flop Etiquette**: Remember, the louder the flip-flop, the cooler you are.
+4. **BBQ Mastery**: If you can't cook, just make sure you have enough ketchup. It fixes everything.
+5. **Beach Body**: The best beach body is the one you bring to the beach. Don't sweat it!
+6. **Insect Repellent**: Mosquitoes think you're delicious. Prove them wrong.
+7. **Pool Safety**: No running by the pool. Unless you're being chased by a bee, then all bets are off.
