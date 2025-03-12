@@ -4,7 +4,7 @@
 Summer Days is a project aimed at creating a fun and interactive platform for users to share their summer experiences. Whether it's a beach trip, a hike in the mountains, or a backyard barbecue, Summer Days provides a space to document and share these moments with friends and family. 
 Laugh at your sunburns, brag about your perfect tan, and show off your BBQ skills (or lack thereof)!
 
-![Summer beach](./sebastien-gabriel--IMlv9Jlb24-unsplash.jpg)
+![Summer beach](https://github.com/subhamX/summer-days/blob/main/public/sebastien-gabriel--IMlv9Jlb24-unsplash.jpg?raw=true)
 
 ## Installation
 To get started with Summer Days, follow these steps:
